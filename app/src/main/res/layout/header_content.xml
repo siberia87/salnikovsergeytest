@@ -31,9 +31,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:layout_toRightOf="@+id/checkBox1"
+            android:layout_toEndOf="@+id/checkBox1"
             android:textColor="@color/main_text_color"
-            android:text="visit historical museum"
+            android:text="@string/visit_historical_museum"
             android:textSize="@dimen/main_text_size"/>
 
         <ImageView
@@ -64,8 +64,8 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:textColor="@color/main_text_color"
-            android:layout_toRightOf="@+id/checkBox2"
-            android:text="visit museum of art"
+            android:layout_toEndOf="@+id/checkBox2"
+            android:text="@string/visit_museum_of_art"
             android:textSize="@dimen/main_text_size"/>
 
         <ImageView
@@ -96,8 +96,8 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:textColor="@color/main_text_color"
-            android:layout_toRightOf="@+id/checkBox3"
-            android:text="visit museum of art"
+            android:layout_toEndOf="@+id/checkBox3"
+            android:text="@string/dinner_at_dunkin_don"
             android:textSize="@dimen/main_text_size"/>
 
         <ImageView
