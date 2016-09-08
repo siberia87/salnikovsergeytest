@@ -25,6 +25,7 @@ public class ScrollingActivity extends AppCompatActivity implements CompoundButt
                 } else {
                     mTextView1.setPaintFlags(mTextView1.getPaintFlags() & (~Paint.STRIKE_THRU_TEXT_FLAG));
                     mTextView1.setTextColor(ContextCompat.getColor(this, R.color.main_text_color));
+                    
                 }
 
                 break;
