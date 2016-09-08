@@ -60,7 +60,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -107,7 +107,7 @@
                     android:textSize="9.3sp"
                     android:layout_marginTop="4dp"
                     android:text="Upload failed"
-                    android:textColor="#ef4726"/>
+                    android:textColor="@color/red_color"/>
 
                 <ImageView
                     android:id="@+id/oval"
@@ -131,7 +131,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -191,7 +191,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -251,7 +251,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -322,7 +322,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -382,7 +382,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -442,7 +442,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
@@ -502,7 +502,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
-                android:background="#F0F0F0"/>
+                android:background="@color/underline_item_color"/>
 
         </LinearLayout>
 
