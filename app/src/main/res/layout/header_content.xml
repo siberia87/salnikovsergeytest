@@ -161,7 +161,7 @@
             android:id="@+id/start_time"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nov 25, 2015, 12:42 PM"
+            android:text="@string/nov_25_2015_12_42_pm"
             android:textColor="@color/pas_text_color"
             android:textSize="@dimen/under_main_text_size"/>
 
@@ -171,7 +171,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:text="Feb 28, 2015, 10:11 AM"
+            android:text="@string/feb_28_2015_10_11_am"
             android:textSize="@dimen/under_main_text_size"/>
     </RelativeLayout>
 
