@@ -141,7 +141,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
                 android:layout_toEndOf="@+id/add_item"
-                android:text="Add item"
+                android:text="@string/add_item"
                 android:textColor="@color/pas_text_color"
                 android:textSize="@dimen/main_text_size"
                 android:layout_alignBottom="@+id/add_item"/>
