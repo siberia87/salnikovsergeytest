@@ -92,4 +92,17 @@
     <string name="action_settings">Settings</string>
     <string name="description">description</string>
     <string name="summer_trips">Summer trips</string>
+    <string name="lexus_hoverboard">Lexus-Hoverboard</string>
+    <string name="_45_68_4_of_152_mb_rtf">45%, 68.4 of 152 MB, RTF</string>
+    <string name="centrallo_logo_zip">Centrallo_logo.zip</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="location">Location</string>
+    <string name="_385_kb_dropbox_link">385 KB, Dropbox link</string>
+    <string name="presentation">Presentation</string>
+    <string name="_5_6_mb_pdf">5,6 MB, PDF</string>
+    <string name="photos_zip">Photos.zip</string>
+    <string name="_1_2_gb_google_drive_link">1.2 GB, Google Drive link</string>
+    <string name="stuff_rar">Stuff.rar</string>
+    <string name="martin_otter">Martin Otter</string>
+    <string name="contact">Contact</string>
 </resources>
