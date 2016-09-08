@@ -8,5 +8,6 @@
     <color name="light_blue">#42ADF2</color>
     <color name="main_text_color">#414549</color>
     <color name="pas_text_color">#a1abb6</color>
+    <color name="main_bg_color">#EDEFF3</color>
 
 </resources>
