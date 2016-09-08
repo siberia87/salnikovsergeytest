@@ -11,7 +11,7 @@
         android:padding="16dp"
         android:text="@string/summer_trips"
         android:textColor="@android:color/black"
-        android:textSize="10.7sp"/>
+        android:textSize="@dimen/main_text_size"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -163,7 +163,7 @@
             android:layout_height="wrap_content"
             android:text="Nov 25, 2015, 12:42 PM"
             android:textColor="@color/pas_text_color"
-            android:textSize="9.3sp"/>
+            android:textSize="@dimen/under_main_text_size"/>
 
         <TextView
             android:id="@+id/finish_time"
@@ -172,7 +172,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:text="Feb 28, 2015, 10:11 AM"
-            android:textSize="9.3sp"/>
+            android:textSize="@dimen/under_main_text_size"/>
     </RelativeLayout>
 
 </LinearLayout>
