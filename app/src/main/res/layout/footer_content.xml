@@ -112,14 +112,16 @@
                     android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
+                    android:contentDescription="@string/description"
                     android:id="@+id/oval"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
-                    android:layout_toLeftOf="@+id/close"
+                    android:layout_toStartOf="@+id/close"
                     android:src="@drawable/uploading"/>
 
                 <ImageView
+                    android:contentDescription="@string/description"
                     android:id="@+id/close"
                     android:layout_width="16dp"
                     android:layout_height="16dp"
