@@ -9,5 +9,5 @@
     <color name="main_text_color">#414549</color>
     <color name="pas_text_color">#a1abb6</color>
     <color name="main_bg_color">#EDEFF3</color>
-
+    <color name="under_text_color">#A0A8B4</color>
 </resources>

@@ -46,7 +46,7 @@
                     android:textSize="9.3sp"
                     android:layout_marginTop="4dp"
                     android:text="45%, 68.4 of 152 MB, RTF"
-                    android:textColor="#A0A8B4"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -177,7 +177,7 @@
                     android:layout_marginTop="4dp"
                     android:textSize="9.3sp"
                     android:text="Location"
-                    android:textColor="#a1abb6"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -237,7 +237,7 @@
                     android:layout_marginTop="4dp"
                     android:textSize="9.3sp"
                     android:text="385 KB, Dropbox link"
-                    android:textColor="#a1abb6"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -298,7 +298,7 @@
                     android:layout_marginTop="4dp"
                     android:textSize="9.3sp"
                     android:text="5,6 MB, PDF"
-                    android:textColor="#a1abb6"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:id="@+id/download"
@@ -368,7 +368,7 @@
                     android:layout_marginTop="4dp"
                     android:textSize="9.3sp"
                     android:text="1.2 GB, Google Drive link"
-                    android:textColor="#a1abb6"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -428,7 +428,7 @@
                     android:layout_marginTop="4dp"
                     android:textSize="9.3sp"
                     android:text="1.2 GB, Google Drive link"
-                    android:textColor="#a1abb6"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -488,7 +488,7 @@
                     android:layout_marginTop="4dp"
                     android:textSize="9.3sp"
                     android:text="Contact"
-                    android:textColor="#a1abb6"/>
+                    android:textColor="@color/under_text_color"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
