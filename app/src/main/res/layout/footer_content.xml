@@ -32,21 +32,21 @@
 
                 <TextView
                     android:id="@+id/item_1"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/lexus_hoverboard"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:id="@+id/text_under_item_1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_1"
-                    android:textSize="9.3sp"
                     android:layout_marginTop="4dp"
                     android:text="@string/_45_68_4_of_152_mb_rtf"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -93,21 +93,21 @@
 
                 <TextView
                     android:id="@+id/item_2"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/centrallo_logo_zip"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:id="@+id/text_under_item_2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_2"
-                    android:textSize="9.3sp"
                     android:layout_marginTop="4dp"
                     android:text="@string/upload_failed"
-                    android:textColor="@color/red_color"/>
+                    android:textColor="@color/red_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:id="@+id/oval"
@@ -164,20 +164,20 @@
 
                 <TextView
                     android:id="@+id/item_3"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/lexus_hoverboard"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_3"
                     android:layout_marginTop="4dp"
-                    android:textSize="9.3sp"
                     android:text="@string/location"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -224,20 +224,20 @@
 
                 <TextView
                     android:id="@+id/item_4"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/centrallo_logo_zip"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_4"
                     android:layout_marginTop="4dp"
-                    android:textSize="9.3sp"
                     android:text="@string/_385_kb_dropbox_link"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -284,11 +284,11 @@
 
                 <TextView
                     android:id="@+id/item_5"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/presentation"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:id="@+id/text_under_item_5"
@@ -296,9 +296,9 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_5"
                     android:layout_marginTop="4dp"
-                    android:textSize="9.3sp"
                     android:text="@string/_5_6_mb_pdf"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:id="@+id/download"
@@ -355,20 +355,20 @@
 
                 <TextView
                     android:id="@+id/item_6"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/photos_zip"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_6"
                     android:layout_marginTop="4dp"
-                    android:textSize="9.3sp"
                     android:text="@string/_1_2_gb_google_drive_link"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -415,20 +415,20 @@
 
                 <TextView
                     android:id="@+id/item_7"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/stuff_rar"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_7"
                     android:layout_marginTop="4dp"
-                    android:textSize="9.3sp"
                     android:text="@string/_1_2_gb_google_drive_link"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -475,20 +475,20 @@
 
                 <TextView
                     android:id="@+id/item_8"
-                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/martin_otter"
-                    android:textColor="@color/main_text_color"/>
+                    android:textColor="@color/main_text_color"
+                    android:textSize="@dimen/main_text_size"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/item_8"
                     android:layout_marginTop="4dp"
-                    android:textSize="9.3sp"
                     android:text="@string/contact"
-                    android:textColor="@color/under_text_color"/>
+                    android:textColor="@color/under_text_color"
+                    android:textSize="@dimen/under_main_text_size"/>
 
                 <ImageView
                     android:layout_width="wrap_content"
