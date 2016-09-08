@@ -34,7 +34,7 @@
             android:layout_toRightOf="@+id/checkBox1"
             android:textColor="@color/main_text_color"
             android:text="visit historical museum"
-            android:textSize="10.7sp"/>
+            android:textSize="@dimen/main_text_size"/>
 
         <ImageView
             android:layout_width="wrap_content"
@@ -66,7 +66,7 @@
             android:textColor="@color/main_text_color"
             android:layout_toRightOf="@+id/checkBox2"
             android:text="visit museum of art"
-            android:textSize="10.7sp"/>
+            android:textSize="@dimen/main_text_size"/>
 
         <ImageView
             android:layout_width="wrap_content"
@@ -98,7 +98,7 @@
             android:textColor="@color/main_text_color"
             android:layout_toRightOf="@+id/checkBox3"
             android:text="visit museum of art"
-            android:textSize="10.7sp"/>
+            android:textSize="@dimen/main_text_size"/>
 
         <ImageView
             android:layout_width="wrap_content"
@@ -143,7 +143,7 @@
                 android:layout_toEndOf="@+id/add_item"
                 android:text="Add item"
                 android:textColor="@color/pas_text_color"
-                android:textSize="10.7sp"
+                android:textSize="@dimen/main_text_size"
                 android:layout_alignBottom="@+id/add_item"/>
         </RelativeLayout>
 

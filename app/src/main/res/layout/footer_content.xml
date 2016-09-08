@@ -32,7 +32,7 @@
 
                 <TextView
                     android:id="@+id/item_1"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/lexus_hoverboard"
@@ -93,7 +93,7 @@
 
                 <TextView
                     android:id="@+id/item_2"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/centrallo_logo_zip"
@@ -164,7 +164,7 @@
 
                 <TextView
                     android:id="@+id/item_3"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/lexus_hoverboard"
@@ -224,7 +224,7 @@
 
                 <TextView
                     android:id="@+id/item_4"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/centrallo_logo_zip"
@@ -284,7 +284,7 @@
 
                 <TextView
                     android:id="@+id/item_5"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/presentation"
@@ -355,7 +355,7 @@
 
                 <TextView
                     android:id="@+id/item_6"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/photos_zip"
@@ -415,7 +415,7 @@
 
                 <TextView
                     android:id="@+id/item_7"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/stuff_rar"
@@ -475,7 +475,7 @@
 
                 <TextView
                     android:id="@+id/item_8"
-                    android:textSize="10.7sp"
+                    android:textSize="@dimen/main_text_size"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/martin_otter"
